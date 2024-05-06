@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Student_Information_System",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
