@@ -1,0 +1,4 @@
+﻿Data Source=TANYA-PERSONAL
+Initial Catalog=HMS
+Integrated Security=True
+Trust Server Certificate=True
